@@ -1,16 +1,23 @@
-## Hi there 👋
+## I'm questxo 👋
 
-<!--
-**questxo/questxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Singapore.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>About me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Currently reading whatever the docs link to
+- 🎯 This year's goal: ship something every month
+- 🌱 Learning Express
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=questxo&layout=compact&langs_count=8&hide_border=true&theme=ayu" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=questxo&hide_border=true&theme=ayu" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-58a6ff?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node.js-58a6ff?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-58a6ff?style=for-the-badge&logoColor=white" alt="Express" />
+</p>
+
+</details>
+
+<sub>Based in Singapore. Always happy to talk shop.</sub>
